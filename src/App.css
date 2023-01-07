@@ -1,0 +1,45 @@
+body{
+  background: black;
+  color: #fff;
+  font-family: sans-serif;
+}
+
+.App {
+  text-align: center;
+}
+
+.nav-bar{
+  display: flex;
+  justify-content: space-around;
+  padding: "12px";
+}
+
+.nav-bar > ul{
+  list-style-type: none;
+  display: flex;
+  justify-content: end;
+  align-items: center;
+}
+
+.nav-bar > ul > li{
+  margin: 10px;
+}
+
+.icon{
+  width: 30px;
+  height: 30px;
+}
+
+.name{
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  line-height: 70px;
+  display: flex;
+  align-items: center;
+  letter-spacing: -1px;
+  font-size: 72px;
+  background: -webkit-linear-gradient(#13B0F5, #E70FAA);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
