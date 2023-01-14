@@ -1,0 +1,76 @@
+#projectSection{
+    margin-top: 40px;
+}
+
+.project-heading{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    color: #CCCCCC;
+    margin-top: 24px;
+}
+
+.project-sub-heading{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    color: #A7A7A7;
+    margin-top: 16px;
+}
+
+.projectTitle {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 28px;
+    color: #CCCCCC;
+    text-align: left;
+}
+
+.projectInfo {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    color: #CCCCCC;
+    text-align: justify;
+    display: flex;
+    align-items: center;
+}
+
+.projectTechStack{
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    color: #CCCCCC;
+    text-align: left;
+    margin-top: 12px;
+}
+
+.card-root{
+    margin: 24px;
+    background: #363636;
+    box-shadow: 2px 2px 100px rgb(0 0 0 / 20%);
+    border-radius: 20px;
+}
+
+.project-content{
+    padding: 24px;
+}
+
+.project-card-footer{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 12px;
+}
+
+.project-footer-icron-wrap{
+    display: flex;
+    gap: 8px;
+}
+
+.footer-content{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    text-decoration-line: underline;
+    color: #FFFFFF;
+}
