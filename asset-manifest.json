@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/janani-portfolio/static/css/main.b49b23f2.css",
+    "main.js": "/janani-portfolio/static/js/main.450c25b5.js",
+    "static/js/787.28cb0dcd.chunk.js": "/janani-portfolio/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/janani-portfolio/index.html",
+    "main.b49b23f2.css.map": "/janani-portfolio/static/css/main.b49b23f2.css.map",
+    "main.450c25b5.js.map": "/janani-portfolio/static/js/main.450c25b5.js.map",
+    "787.28cb0dcd.chunk.js.map": "/janani-portfolio/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b49b23f2.css",
+    "static/js/main.450c25b5.js"
+  ]
+}
