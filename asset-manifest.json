@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/janani-portfolio/static/css/main.fa4469d8.css",
-    "main.js": "/janani-portfolio/static/js/main.fb2b80d2.js",
+    "main.css": "/janani-portfolio/static/css/main.efed11f5.css",
+    "main.js": "/janani-portfolio/static/js/main.daf77b55.js",
     "static/js/787.28cb0dcd.chunk.js": "/janani-portfolio/static/js/787.28cb0dcd.chunk.js",
     "static/media/janani-crop-400x400.png": "/janani-portfolio/static/media/janani-crop-400x400.d67204b5607065db4fa6.png",
-    "static/media/sample-project-card.png": "/janani-portfolio/static/media/sample-project-card.27458fec70ee905b1149.png",
+    "static/media/neou.png": "/janani-portfolio/static/media/neou.2dcdda2097ac18a4e828.png",
     "index.html": "/janani-portfolio/index.html",
-    "main.fa4469d8.css.map": "/janani-portfolio/static/css/main.fa4469d8.css.map",
-    "main.fb2b80d2.js.map": "/janani-portfolio/static/js/main.fb2b80d2.js.map",
+    "main.efed11f5.css.map": "/janani-portfolio/static/css/main.efed11f5.css.map",
+    "main.daf77b55.js.map": "/janani-portfolio/static/js/main.daf77b55.js.map",
     "787.28cb0dcd.chunk.js.map": "/janani-portfolio/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fa4469d8.css",
-    "static/js/main.fb2b80d2.js"
+    "static/css/main.efed11f5.css",
+    "static/js/main.daf77b55.js"
   ]
 }
