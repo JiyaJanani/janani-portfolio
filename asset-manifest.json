@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/janani-portfolio/static/css/main.2fe4aeba.css",
-    "main.js": "/janani-portfolio/static/js/main.422d6c2b.js",
+    "main.css": "/janani-portfolio/static/css/main.e105f38e.css",
+    "main.js": "/janani-portfolio/static/js/main.05ef8218.js",
     "static/js/787.28cb0dcd.chunk.js": "/janani-portfolio/static/js/787.28cb0dcd.chunk.js",
     "static/media/janani-crop-400x400.png": "/janani-portfolio/static/media/janani-crop-400x400.d67204b5607065db4fa6.png",
     "static/media/neou.png": "/janani-portfolio/static/media/neou.2dcdda2097ac18a4e828.png",
     "index.html": "/janani-portfolio/index.html",
-    "main.2fe4aeba.css.map": "/janani-portfolio/static/css/main.2fe4aeba.css.map",
-    "main.422d6c2b.js.map": "/janani-portfolio/static/js/main.422d6c2b.js.map",
+    "main.e105f38e.css.map": "/janani-portfolio/static/css/main.e105f38e.css.map",
+    "main.05ef8218.js.map": "/janani-portfolio/static/js/main.05ef8218.js.map",
     "787.28cb0dcd.chunk.js.map": "/janani-portfolio/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2fe4aeba.css",
-    "static/js/main.422d6c2b.js"
+    "static/css/main.e105f38e.css",
+    "static/js/main.05ef8218.js"
   ]
 }
