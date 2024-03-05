@@ -1,76 +1,55 @@
-#projectSection{
-    margin-top: 40px;
+#projectSection {
+  margin-top: 40px;
+  padding-left: 20px;
+  padding-right: 20px;
+  width: calc(100% - 40px);
 }
 
-.project-heading{
-    font-style: normal;
-    font-weight: 700;
-    font-size: 48px;
-    color: #CCCCCC;
-    margin-top: 24px;
+#card {
+  border-radius: 20px;
+  background: black;
 }
 
-.project-sub-heading{
-    font-style: normal;
-    font-weight: 400;
-    font-size: 32px;
-    color: #A7A7A7;
-    margin-top: 16px;
+@media (min-width: 426px) and (max-width: 4000px) {
+  #card {
+    width: 320px;
+  }
 }
 
-.projectTitle {
-    font-style: normal;
-    font-weight: 500;
-    font-size: 28px;
-    color: #CCCCCC;
-    text-align: left;
+.card-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+  justify-content: center;
 }
 
-.projectInfo {
-    font-style: normal;
-    font-weight: 300;
-    font-size: 18px;
-    color: #CCCCCC;
-    text-align: justify;
-    display: flex;
-    align-items: center;
+.img-container img {
+  width: 100%;
 }
 
-.projectTechStack{
-    font-style: normal;
-    font-weight: 300;
-    font-size: 16px;
-    color: #CCCCCC;
-    text-align: left;
-    margin-top: 12px;
+.content {
+  padding: 16px;
 }
 
-.card-root{
-    margin: 24px;
-    background: #363636;
-    box-shadow: 2px 2px 100px rgb(0 0 0 / 20%);
-    border-radius: 20px;
+.footer {
+  display: flex;
+  gap: 16px;
+  justify-content: center;
+  padding-top: 24px;
 }
 
-.project-content{
-    padding: 24px;
+.project-heading {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  color: #cccccc;
+  margin-top: 24px;
 }
 
-.project-card-footer{
-    display: flex;
-    justify-content: space-between;
-    margin-top: 12px;
-}
-
-.project-footer-icron-wrap{
-    display: flex;
-    gap: 8px;
-}
-
-.footer-content{
-    font-style: normal;
-    font-weight: 400;
-    font-size: 16px;
-    text-decoration-line: underline;
-    color: #FFFFFF;
+.project-sub-heading {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  color: #a7a7a7;
+  margin-top: 16px;
 }
